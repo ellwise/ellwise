@@ -7,10 +7,9 @@ That said, I've also contributed to web-apps directly in **Javascript (React Boo
 I have a background as a researcher in numerical analysis, and so it should come as no surprise that I'm also a big fan of **Julia** which I use in hobby projects.
 Professionally, I'm currently focussing on techno-economic modelling: lifecycle simulation of large engineering infrastructure for feasibility studies and optioneering.
 
-🎉 Dr Elliott Wise
-├── 🧑‍🎓 Education
-
-|   ├── 2008-12 BSc Mathematics, ANU
+🎉 Dr Elliott Wise<br/>
+├── 🧑‍🎓 Education<br/>
+|   ├── 2008-12 BSc Mathematics, ANU<br/>
 │   ├── 2008-12 BEng (Honours) Mechatronics, ANU
 │   └── 2014-18 [PhD Numerical Analysis](https://discovery.ucl.ac.uk/id/eprint/10061936/), UCL
 ├── 🧑‍💻 Experience
