@@ -14,7 +14,7 @@ Professionally, I'm currently focussing on techno-economic modelling: lifecycle 
 │   ├── 2008-12 BEng (Honours) Mechatronics, ANU
 │   └── 2008-12 BSc Mathematics, ANU
 ├── 🧑‍💻 Experience
-│   ├── 2021-22 Senior Advisor, GHD Insights & Analytics
+│   ├── 2021-23 Senior Advisor, GHD Insights & Analytics
 │   ├── 2019-21 Senior Consultant, Amey Strategic Consulting
 │   ├── 2018-19 Research Associate, Imperial College London
 │   ├── 2014-18 Research Assistant, UCL
