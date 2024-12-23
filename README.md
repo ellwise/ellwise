@@ -1,9 +1,9 @@
 ### Hello! 👋
 
-**I'm a data scientist improving asset management within infrastructure engineering projects.**
+**I'm a data scientist/engineer improving asset management within infrastructure engineering projects.**
 
 Most of my professional work is done using **Python**, with **Plotly Dash** for web-app development and recently **Simpy** for discrete-event simulation.
-That said, I've also contributed to web-apps directly in **Javascript (React Boostrap)**, and can stand-up basic **cloud infrastructure** for deployment.
+That said, I've also contributed to web-apps directly in **Javascript (React Boostrap)**, and can stand-up **cloud infrastructure** for deployment.
 I have a background as a researcher in numerical analysis, and so it should come as no surprise that I'm also a big fan of **Julia** which I use in hobby projects.
 Professionally, I'm currently focussing on techno-economic modelling: lifecycle simulation of large engineering infrastructure for feasibility studies and optioneering.
 
@@ -14,7 +14,7 @@ Professionally, I'm currently focussing on techno-economic modelling: lifecycle 
 │   ├── 2008-12 BEng (Honours) Mechatronics, ANU
 │   └── 2008-12 BSc Mathematics, ANU
 ├── 🧑‍💻 Experience
-│   ├── 2021-23 Senior Advisor, GHD Insights & Analytics
+│   ├── 2021-Present Senior Advisor, GHD Insights & Analytics
 │   ├── 2019-21 Senior Consultant, Amey Strategic Consulting
 │   ├── 2018-19 Research Associate, Imperial College London
 │   ├── 2014-18 Research Assistant, UCL
